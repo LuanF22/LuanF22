@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Luan Anderson
 - 👀 I’m interested in analytics, data engineering and BI
 - 🌱 I’m currently learning Python (Pandas and Numpy), SQL and PowerBI
-- 💞️ I’m looking to collaborate on analytics
+- 💞️ I’m looking to collaborate on a data team
 
 
 <!---
